@@ -2,6 +2,16 @@
 
 A complete end-to-end analytics project built in **Power BI** to explore booking behavior, trip patterns, peak timings, vehicle performance, and location trends using Uber trip data.  
 This dashboard provides actionable insights through clean visuals, interactive slicers, and multiple analysis pages.
+---
+
+## 📸 Dashboard Preview
+
+<img width="2044" height="1149" alt="image" src="https://github.com/user-attachments/assets/a72c3cc3-6740-485c-b93f-599a2b9811cb" />
+
+<img width="2057" height="1152" alt="image" src="https://github.com/user-attachments/assets/ccb391f1-50b8-44cc-8007-3b1c9fd90171" />
+
+<img width="2035" height="1146" alt="image" src="https://github.com/user-attachments/assets/a22f884e-1cfa-48e0-b755-1ff19e32f2fd" />
+
 
 ---
 
@@ -80,18 +90,7 @@ Includes trip-level details such as:
 2. Open in **Power BI Desktop**  
 3. Use the slicers to explore insights interactively  
 
----
 
-## 📸 Dashboard Preview
-
-<img width="2044" height="1149" alt="image" src="https://github.com/user-attachments/assets/a72c3cc3-6740-485c-b93f-599a2b9811cb" />
-
-<img width="2057" height="1152" alt="image" src="https://github.com/user-attachments/assets/ccb391f1-50b8-44cc-8007-3b1c9fd90171" />
-
-<img width="2035" height="1146" alt="image" src="https://github.com/user-attachments/assets/a22f884e-1cfa-48e0-b755-1ff19e32f2fd" />
-
-
----
 
 ## 🙌 Acknowledgments
 
